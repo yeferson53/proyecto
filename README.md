@@ -70,6 +70,7 @@ forward(100)
 right(270)
 forward(100)
 pu()
+
 def triqui():
     "Juego De Triqui De Cuatro Lineas"
     k=[["-","-","-","-"],
@@ -443,3 +444,4 @@ while i <=16:
         fd(430)
         i=10
         sw=1
+
